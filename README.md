@@ -1,5 +1,5 @@
 # 💫 About Me:
-🙋‍♀️ Hi, I'm Nushrat Jahan.<br>🔭 I’m currently working on MERN stack web development.<br>👯 I’m looking to collaborate on React.js, Next.js, or any Front-end Language.<br>🌱 I’m currently learning Next.js.<br>💬 Ask me about Web Technology.<br>⚡ Fun fact - I don't know much, but I know How to learn when it is needed, and I think I have a tremendous interest inside me to learn new things.
+🙋‍♀️ Hi, I'm Nushrat Jahan.<br>🔭 I’m currently working on MERN stack web development.<br>👯 I want to collaborate on React.js, Next.js, or any kind of Front-end Language.<br>🌱 I’m currently learning Next.js.<br>💬 Ask me about Web Technology.<br>⚡ Fun fact - I don't know much, but I know How to learn when needed, and I think I have a tremendous interest in learning new things.
 
 
 ## 🌐 Socials:
